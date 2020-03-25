@@ -7,7 +7,11 @@ const App = () => {
     <div>
       <h1>Hello World</h1>
       <p>Hello world</p>
-      <Person />
+      <Person name="Vy" age="8" />
+      <Person name="Jen" age="8" />
+      <Person name="Donnie" age="8" />
+      <Person name="Kara" age="8" />
+      <Person name="Cami" age="8" />
     </div>
   );
 };
