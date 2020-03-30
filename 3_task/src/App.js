@@ -1,17 +1,17 @@
-import React, {Component} from 'react';
-import './App.css';
+import React, { Component } from "react";
+import "./App.css";
 
-class App extends Component{
-  render(){
-    return(
+class App extends Component {
+  state = {
+    likes: 0
+  };
+  render() {
+    return (
       <div>
-        <h1>
-          Total Likes:
-        </h1>
+        <h1>Total Likes: {this.state.likes} </h1>
       </div>
-    )
+    );
   }
 }
-
 
 export default App;
