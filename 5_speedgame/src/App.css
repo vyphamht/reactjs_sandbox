@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=VT323&display=swap");
+
+body {
+  text-align: center;
+  font-family: "VT323", monospace;
+  color: white;
+  font-size: 4rem;
+  background: rgb(238, 174, 202);
+  background: radial-gradient(
+    circle,
+    rgba(238, 174, 202, 1) 0%,
+    rgba(148, 187, 233, 1) 100%
+  );
+  display: grid;
+  justify-items: center;
+  align-items: center;
+}
+button {
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 5px;
+  font-family: "VT323", monospace;
+  font-size: 1.2rem;
+  box-shadow: 2px 2px darkorange;
+}

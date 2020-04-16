@@ -1,0 +1,12 @@
+.circle {
+  height: 150px;
+  width: 150px;
+  border: 2px solid rgba(124, 124, 124, 0.377);
+  border-radius: 50%;
+  margin: 20px;
+  display: inline-block;
+}
+.circle.active {
+  background: url("/pokemon.png");
+  background-size: cover;
+}
