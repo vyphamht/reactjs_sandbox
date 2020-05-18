@@ -1,0 +1,15 @@
+.fullPost img {
+  height: 200px;
+  margin-bottom: 1rem;
+}
+.fullPost_ {
+  display: grid;
+  justify-items: center;
+  align-items: center;
+}
+.fullPost_ h1 {
+  padding: 1rem;
+}
+.main-fullPost p {
+  width: 95vw;
+}

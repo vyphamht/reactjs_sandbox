@@ -1,0 +1,11 @@
+.blogList h1 {
+  font-size: 5rem;
+  padding: 2rem;
+  text-align: center;
+}
+.postList {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
