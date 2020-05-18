@@ -10,4 +10,4 @@ This application is a blog post app utilising key topics gained from React Basic
 - GET and POST to database
 - Styling with Bootstrap
 
-And the app is deployed at:
+And the app is deployed at: https://blog-post-v.web.app/
